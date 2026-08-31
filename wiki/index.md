@@ -6,6 +6,7 @@ This wiki is the single source of truth for knowledge that should survive across
 
 - [Project vision](project/vision.md) — channel purpose, audience promise, content pillars, languages, and editorial scope
 - [Current status](project/current-status.md) — what is locked, experimental, rejected, and next
+- [Ideas draft](project/ideas-draft.md) — ranked concept backlog before ideas become separate projects
 - [Video-project workflow](framework/video-project-workflow.md) — end-to-end process and approval gates
 - [Shorts strategy](framework/shorts-strategy.md) — how Shorts test and support the long-form channel
 - [Wiki maintenance](framework/wiki-maintenance.md) — what belongs here and how pages stay current
