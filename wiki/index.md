@@ -1,0 +1,49 @@
+# StoryLens Wiki
+
+This wiki is the single source of truth for knowledge that should survive across video projects. Each video is a separate project outside this repository; project-specific briefs, research, scripts, media, and renders are not duplicated here.
+
+## Start here
+
+- [Project vision](project/vision.md) — channel purpose, audience promise, content pillars, languages, and editorial scope
+- [Current status](project/current-status.md) — what is locked, experimental, rejected, and next
+- [Video-project workflow](framework/video-project-workflow.md) — end-to-end process and approval gates
+- [Wiki maintenance](framework/wiki-maintenance.md) — what belongs here and how pages stay current
+
+## Standards
+
+- [Story, script, and retention](standards/story-script-retention.md)
+- [Narration evaluation](standards/narration-evaluation.md)
+- [Visual style](standards/visual-style.md)
+- [Visual evaluation](standards/visual-evaluation.md)
+- [Audio, editing, captions, and export](standards/audio-editing.md)
+- [Research and historical responsibility](standards/research-accuracy.md)
+
+## Reusable tools
+
+- [Video-project gates checklist](templates/video-project-gates.md)
+- [Standard video-project folder](framework/video-project-workflow.md#standard-video-project-folder)
+
+## Experiments and learning
+
+- [Minimalist explainer format experiment](experiments/minimalist-explainer-format.md)
+- [Pilot 001 retrospective](experiments/pilot-001-retrospective.md)
+- [YouTube proficiency research](experiments/youtube-proficiency-research.md)
+
+## Decisions
+
+- [Decision log](decisions/decision-log.md)
+
+## Separate production projects
+
+- [`001-stone-age-monsoon/`](../../StoryLens-Projects/001-stone-age-monsoon/) — preserved first video project and all of its production material
+
+## Wiki rule
+
+Put information here only if at least one of these is true:
+
+- It applies to multiple future video projects.
+- It records a channel-level decision.
+- It defines a repeatable process, standard, evaluator, or template.
+- It captures a reusable lesson from an experiment.
+
+If it describes one video's facts, wording, shots, prompts, assets, or render, it belongs inside that video's project instead.
