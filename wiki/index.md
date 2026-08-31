@@ -7,6 +7,7 @@ This wiki is the single source of truth for knowledge that should survive across
 - [Project vision](project/vision.md) — channel purpose, audience promise, content pillars, languages, and editorial scope
 - [Current status](project/current-status.md) — what is locked, experimental, rejected, and next
 - [Video-project workflow](framework/video-project-workflow.md) — end-to-end process and approval gates
+- [Shorts strategy](framework/shorts-strategy.md) — how Shorts test and support the long-form channel
 - [Wiki maintenance](framework/wiki-maintenance.md) — what belongs here and how pages stay current
 
 ## Standards
@@ -21,6 +22,7 @@ This wiki is the single source of truth for knowledge that should survive across
 ## Reusable tools
 
 - [Video-project gates checklist](templates/video-project-gates.md)
+- [Short video gates](templates/short-video-gates.md)
 - [Standard video-project folder](framework/video-project-workflow.md#standard-video-project-folder)
 
 ## Experiments and learning
@@ -28,6 +30,7 @@ This wiki is the single source of truth for knowledge that should survive across
 - [Minimalist explainer format experiment](experiments/minimalist-explainer-format.md)
 - [Pilot 001 retrospective](experiments/pilot-001-retrospective.md)
 - [YouTube proficiency research](experiments/youtube-proficiency-research.md)
+- [Shorts Batch 001](experiments/shorts-batch-001.md)
 
 ## Decisions
 

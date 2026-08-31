@@ -39,3 +39,13 @@ Status: Locked.
 - The prototype must include final-quality script, voice, visual cadence, motion, music, effects, and captions.
 
 Status: Locked.
+
+## 2026-09-01 — Long-form-first, Shorts-supported strategy
+
+- Keep long videos as the primary StoryLens product.
+- Use Shorts to test topics, hooks, narration, visual cadence, motion, and sound quickly.
+- Begin with six independent 35–60 second Shorts.
+- Treat every Short as its own video project.
+- Use the strongest experiment to guide the next 4–6 minute long video.
+
+Status: Locked for the first channel experiment.

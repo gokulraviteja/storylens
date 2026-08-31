@@ -10,6 +10,8 @@ Updated: 2026-08-31
 - The agent drives the workflow and asks the creator for one meaningful decision at a time.
 - Each video is a separate project outside this repository; reusable channel knowledge lives in `wiki/`.
 - No full video enters expensive production until a finished 45–60 second prototype passes review.
+- StoryLens is long-form-first; Shorts are the rapid-learning and discovery layer.
+- Each Short is its own video project.
 
 ## Current creative direction
 
@@ -38,7 +40,7 @@ The workflow can produce a researched and technically complete video, but the fi
 
 ## Next milestone
 
-Create a new video project and produce a 45–60 second finished prototype that demonstrates:
+Produce the first three projects in [Shorts Batch 001](../experiments/shorts-batch-001.md), beginning with the microlith concept, and use them to demonstrate:
 
 - A strong human-sounding script
 - Directed narration with varied pace and emphasis
@@ -47,4 +49,4 @@ Create a new video project and produce a 45–60 second finished prototype that 
 - Limited animation and purposeful pattern changes
 - Music, effects, ambience, and selective captions
 
-Only after that prototype passes should the next full video be produced.
+After the initial six-Short experiment, use the strongest topic-format combination to guide the next 4–6 minute video.
