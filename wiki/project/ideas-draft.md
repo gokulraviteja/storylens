@@ -20,7 +20,7 @@ This is the channel-level idea backlog. Concepts remain here while they are bein
 
 ### 1. How Generational Wealth Began
 
-**Status:** Selected for concept development; geography and historical mechanism not yet locked.
+**Status:** In production as Project 002. Stage 1 concept scope approved; Stage 2 research awaits creator approval.
 
 **One-line concept:** How did a small number of families acquire acres of land while many others owned little or none—and how did that first advantage compound across generations?
 
@@ -31,7 +31,9 @@ This is the channel-level idea backlog. Concepts remain here while they are bein
 - Strong emotional and discussion potential
 - Can expand into a connected series across countries and historical systems
 
-**Primary risk:** “Generational wealth” is too broad for one Short. The first video must choose one geography, period, and land-allocation mechanism. It must avoid implying that every large estate arose in the same way.
+**Locked scope:** Bengal Presidency and the Permanent Settlement of 1793. Explain how colonial revenue policy strengthened selected landed rights as inheritable and transferable property, while acknowledging that zamindars and hereditary claims predated the settlement.
+
+**Primary risk:** Do not imply that this explains all Indian generational wealth, that the Company handed unowned land to random favourites, or that every zamindar became rich.
 
 **Possible mechanisms to investigate:**
 
@@ -42,7 +44,7 @@ This is the channel-level idea backlog. Concepts remain here while they are bein
 - Auctions, taxation, debt, and dispossession
 - Inheritance and later appreciation of land values
 
-**Recommended next decision:** India versus a global comparison. Recommendation: begin with one Indian regional system rather than attempting all of India in one minute.
+**Active project:** `/Users/gokul/Documents/StoryLens-Projects/002-permanent-settlement-generational-wealth/`
 
 ### 2. Tiny Tools, Big Idea
 
@@ -59,7 +61,7 @@ This is the channel-level idea backlog. Concepts remain here while they are bein
 
 **Primary risk:** Do not assign one exact use to every microlith or present a reconstructed handle and binding as an excavated intact tool.
 
-**Prepared project:** `/Users/gokul/Documents/StoryLens-Projects/002-microliths-small-tools/`
+**Prepared project:** `/Users/gokul/Documents/StoryLens-Projects/003-microliths-small-tools/`
 
 ### 3. Archaeology's Unfair Archive
 
@@ -75,7 +77,7 @@ This is the channel-level idea backlog. Concepts remain here while they are bein
 
 **Primary risk:** Organic material can survive in special conditions. Present this as a preservation bias, not an absolute rule.
 
-**Prepared project:** `/Users/gokul/Documents/StoryLens-Projects/003-archaeology-unfair-archive/`
+**Prepared project:** `/Users/gokul/Documents/StoryLens-Projects/004-archaeology-unfair-archive/`
 
 ### 4. The Five-Kilometre Clue
 
@@ -91,7 +93,7 @@ This is the channel-level idea backlog. Concepts remain here while they are bein
 
 **Primary risk:** Five kilometres does not initially sound dramatic. The script must make the carried, walked, remembered landscape—not the number alone—the payoff.
 
-**Prepared project:** `/Users/gokul/Documents/StoryLens-Projects/004-five-kilometre-stone/`
+**Prepared project:** `/Users/gokul/Documents/StoryLens-Projects/005-five-kilometre-stone/`
 
 ## Idea selection criteria
 
@@ -112,4 +114,4 @@ High audience potential cannot compensate for a misleading premise. Easy product
 
 ## Next action
 
-Define the first generational-wealth Short narrowly enough to begin preliminary research. Do not write the final hook or script until geography, period, and mechanism are selected.
+Complete and approve the research/fact lock for Project 002. Do not write the story structure or script until its safe claims and prohibited shortcuts are approved.

@@ -49,3 +49,13 @@ Status: Locked.
 - Use the strongest experiment to guide the next 4–6 minute long video.
 
 Status: Locked for the first channel experiment.
+
+## 2026-09-01 — First Short concept scope
+
+- Produce “Permanent Settlement and Generational Wealth” as Project 002.
+- Focus on Bengal Presidency and the Permanent Settlement of 1793.
+- Explain one mechanism by which colonial revenue policy could help landed wealth persist and compound across generations.
+- Treat this as one regional history, not the universal origin of generational wealth in India.
+- Require explicit creator approval after each of the ten production stages.
+
+Status: Concept scope locked; research/fact lock awaiting approval.
