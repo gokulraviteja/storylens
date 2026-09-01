@@ -25,6 +25,7 @@ Any one of these results in **Revise** or **Reject**, regardless of score:
 - Unsupported detail presented as confirmed evidence
 - Material contradiction with the narration or scene timing
 - Character identity, clothing, or tool continuity failure
+- Semantic role substitution, such as showing the wrong historical actor performing the narrated action
 - Anatomical defect, duplicated object, malformed hand, or visually broken geometry
 - Text error, accidental lettering, watermark, signature, or visible generation artifact
 - Violation of the locked house style
@@ -103,5 +104,6 @@ Individual passes are necessary but not sufficient. Before picture assembly, ins
 - Unmotivated palette changes
 - Visual rhythm and adequate room for subtitles
 - Whether reconstructed details accidentally accumulate into a false claim
+- Whether an individually acceptable shot remains on screen too long for the narration ideas it contains
 
 The sequence receives its own Pass, Revise, or Reject decision.

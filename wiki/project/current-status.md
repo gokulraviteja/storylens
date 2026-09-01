@@ -1,6 +1,6 @@
 # Current Project Status
 
-Updated: 2026-08-31
+Updated: 2026-09-01
 
 ## Locked
 
@@ -40,13 +40,15 @@ The workflow can produce a researched and technically complete video, but the fi
 
 ## Next milestone
 
-Produce the first three projects in [Shorts Batch 001](../experiments/shorts-batch-001.md), beginning with the microlith concept, and use them to demonstrate:
+Review and audience-test the completed Project 002 Short, “Why Some Families Inherited Acres.” Its production package is stored at `/Users/gokul/Documents/StoryLens-Projects/002-permanent-settlement-generational-wealth/`.
+
+The Short demonstrates:
 
 - A strong human-sounding script
 - Directed narration with varied pace and emphasis
-- Approximately 15–25 meaningful visual beats
+- 25 meaningful visual beats across approximately 55 seconds
 - Consistent, intentionally simple art
 - Limited animation and purposeful pattern changes
 - Music, effects, ambience, and selective captions
 
-After the initial six-Short experiment, use the strongest topic-format combination to guide the next 4–6 minute video.
+After recording creator and audience response, decide whether to revise Project 002 or continue to Project 003. After the initial six-Short experiment, use the strongest topic-format combination to guide the next 4–6 minute video.
