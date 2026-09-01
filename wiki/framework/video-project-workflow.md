@@ -33,6 +33,8 @@ For each stage, the agent should:
 
 The creator provides direction on audience, tone, story emphasis, language, sensitive choices, and final approvals. The agent owns process management, research organization, drafts, consistency checks, file maintenance, and keeping track of what comes next.
 
+If the creator explicitly authorizes an unattended batch, the agent may complete reversible production gates internally, but must retain every gate artifact and correction decision. Publication, external messaging, and audience interpretation are never implied by that authorization.
+
 If a decision is easily reversible and does not materially change the video, the agent should make a documented recommendation and continue. If a decision would significantly affect the story, factual position, cost, voice, visual identity, or published result, the agent must obtain the creator's approval.
 
 ### Creator approval points
@@ -235,6 +237,10 @@ Wording, performance, pronunciation, and timing are approved. Final visual produ
 
 Every timeline asset has a recorded evaluation Pass; the full sequence has also passed continuity review; the images follow the approved channel style, contain no anachronisms or narrative contradictions, and provide enough shot variety to avoid a slideshow feeling.
 
+### Generated-image correction rule
+
+Reject an image when it creates a wrong role, repeated face, malformed focal anatomy, unsupported tool form, weapon spectacle, generated lettering, or false geographic precision. When a factual mechanism is easier to express as a diagram, use a deterministic graphic and label reconstructions rather than repeatedly prompting an image model for an uncertain scene.
+
 ## 9. Edit, sound, and captions
 
 ### Tasks
@@ -283,6 +289,8 @@ Story, visuals, sound, factual labels, captions, and pacing are approved. Only t
 3. **Audio:** pronunciation, dialogue clarity, music level, noise, and abrupt cuts.
 4. **Technical:** resolution, frame rate, aspect ratio, subtitles, credits, and filename.
 5. **Packaging:** title and thumbnail promise match the actual video.
+
+For a batch, add a sixth pass: sample the encoded masters together. Compare visual identity, caption safe areas, repeated compositions, program loudness, cadence, and factual-label consistency. This cross-video pass can reveal drift that per-video checks miss.
 
 Export the English master first. Release additional languages only after the master passes review.
 

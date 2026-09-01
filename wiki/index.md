@@ -40,6 +40,10 @@ This wiki is the single source of truth for knowledge that should survive across
 ## Separate production projects
 
 - [`001-stone-age-monsoon/`](../../StoryLens-Projects/001-stone-age-monsoon/) — preserved first video project and all of its production material
+- [`002-permanent-settlement-generational-wealth/`](../../StoryLens-Projects/002-permanent-settlement-generational-wealth/) — completed English Short
+- [`003-microliths-small-tools/`](../../StoryLens-Projects/003-microliths-small-tools/) — completed English Short
+- [`004-archaeology-unfair-archive/`](../../StoryLens-Projects/004-archaeology-unfair-archive/) — completed English Short
+- [`005-five-kilometre-stone/`](../../StoryLens-Projects/005-five-kilometre-stone/) — completed English Short
 
 ## Wiki rule
 

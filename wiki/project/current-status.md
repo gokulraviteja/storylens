@@ -38,17 +38,10 @@ These choices must be validated by prototypes and audience behavior rather than 
 
 The workflow can produce a researched and technically complete video, but the first full render was not creatively successful. It contained too few meaningful visual beats, limited motion, a narration performance that felt synthetic, and evaluators that rewarded correctness more strongly than attention. See the [pilot retrospective](../experiments/pilot-001-retrospective.md).
 
+## Completed production batch
+
+Projects 002–005 have complete English masters, research ledgers, scripts, aligned narration, 21–25 beat edits, visual correction histories, technical QA, and release drafts. See [Shorts Batch 001](../experiments/shorts-batch-001.md).
+
 ## Next milestone
 
-Review and audience-test the completed Project 002 Short, “Why Some Families Inherited Acres.” Its production package is stored at `/Users/gokul/Documents/StoryLens-Projects/002-permanent-settlement-generational-wealth/`.
-
-The Short demonstrates:
-
-- A strong human-sounding script
-- Directed narration with varied pace and emphasis
-- 25 meaningful visual beats across approximately 55 seconds
-- Consistent, intentionally simple art
-- Limited animation and purposeful pattern changes
-- Music, effects, ambience, and selective captions
-
-After recording creator and audience response, decide whether to revise Project 002 or continue to Project 003. After the initial six-Short experiment, use the strongest topic-format combination to guide the next 4–6 minute video.
+Creator review, followed by a controlled audience experiment. Compare the four videos on shown-versus-swiped, early retention, completion, rewatches, response quality, and production effort. Do not lock the permanent art style, voice, or cadence until this evidence exists.

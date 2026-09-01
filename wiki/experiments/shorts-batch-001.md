@@ -1,6 +1,6 @@
 # Shorts Batch 001
 
-Status: First project selected; Project 002 is at the research/fact-lock gate.
+Status: Four production-ready English Shorts completed; creator review and audience publication pending.
 
 ## Experiment objective
 
@@ -66,3 +66,16 @@ Keep the channel promise constant while varying one main presentation variable:
 | 005 Five-kilometre stone | Map, scale, and curiosity payoff |
 
 Do not declare a winner from raw views alone. Compare engaged viewing, retention, response quality, production effort, and suitability for long-form expansion.
+
+## Production completion — 2026-09-01
+
+| Project | Runtime | Beats | Primary production learning |
+|---|---:|---:|---|
+| 002 Permanent Settlement | 55.23 s | 25 | Personal stakes plus a visible mechanism can carry a complex correction. |
+| 003 Microliths | 58.10 s | 24 | Generated reconstruction can invent tool forms; labelled deterministic diagrams are safer and clearer. |
+| 004 Unfair archive | 57.93 s | 24 | A recurring visual metaphor makes evidence disclosure entertaining rather than defensive. |
+| 005 Five-kilometre stone | 50.63 s | 21 | A documented distance must remain separate from possible routes, travellers, or exchange mechanisms. |
+
+All four are 1080 × 1920 at 30 fps with 21–25 meaningful beats and no detected black frames or program silence longer than 0.8 seconds. A cross-video encoded-frame review is retained in [four-video-cross-review.png](../four-video-cross-review.png).
+
+This is a production pass, not proof of audience fit. Publication metrics must decide which format deserves iteration.
