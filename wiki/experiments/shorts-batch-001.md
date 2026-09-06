@@ -81,4 +81,10 @@ All five are 1080 × 1920 at 30 fps with 21–25 meaningful beats and no detecte
 
 This is a production pass, not proof of audience fit. Publication metrics must decide which format deserves iteration.
 
-Projects 002–006 were completed before the 2026-09-06 image-only rule. Their use of deterministic code-drawn visuals is retained as experiment history, not as an approved production method. Project 006 is the first candidate for an image-only remake.
+Projects 002–006 were completed before the 2026-09-06 image-only rule. Their use of deterministic code-drawn visuals is retained as experiment history, not as an approved production method. Project 006 was selected as the first image-only remake.
+
+## Image-only remake — 2026-09-06
+
+Project 006 V2 is a 32.33-second Short with 14 image-generated base frames, averaging one visual beat every 2.31 seconds. One misleading evolution-tree draft was rejected and replaced, and one safety-blocked attempt was redesigned as a footprint-only composition. Code was limited to fitting images, captions, labels, subtle camera motion, sound mixing and export.
+
+This validates that the workflow can technically enforce the image-only rule. It does not validate audience appeal; creator review and publication metrics remain required.

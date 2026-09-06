@@ -1,6 +1,6 @@
 # Current Project Status
 
-Updated: 2026-09-01
+Updated: 2026-09-06
 
 ## Locked
 
@@ -42,7 +42,9 @@ The workflow can produce a researched and technically complete video, but the fi
 
 ## Completed production batch
 
-Projects 002–006 have complete English masters, research ledgers, scripts, aligned narration, visual correction histories, technical QA, and release drafts. See [Shorts Batch 001](../experiments/shorts-batch-001.md). These masters predate the strict image-only rule and remain learning prototypes; Project 006 uses 20 code-drawn frames and must be remade before publication.
+Projects 002–006 have complete English masters, research ledgers, scripts, aligned narration, visual correction histories, technical QA, and release drafts. See [Shorts Batch 001](../experiments/shorts-batch-001.md). These original masters predate the strict image-only rule and remain learning prototypes; Project 006 V1 uses 20 code-drawn frames and has been superseded.
+
+Project 006 now also has a 32.33-second V2 made from 14 image-generated base frames and zero code-drawn base visuals. It is the first completed demonstration of the strict image-only workflow and is ready for creator review.
 
 ## Next milestone
 
