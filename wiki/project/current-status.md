@@ -40,7 +40,7 @@ The workflow can produce a researched and technically complete video, but the fi
 
 ## Completed production batch
 
-Projects 002–005 have complete English masters, research ledgers, scripts, aligned narration, 21–25 beat edits, visual correction histories, technical QA, and release drafts. See [Shorts Batch 001](../experiments/shorts-batch-001.md).
+Projects 002–006 have complete English masters, research ledgers, scripts, aligned narration, 21–25 beat edits, visual correction histories, technical QA, and release drafts. See [Shorts Batch 001](../experiments/shorts-batch-001.md).
 
 ## Next milestone
 

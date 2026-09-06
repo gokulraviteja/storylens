@@ -44,6 +44,7 @@ This wiki is the single source of truth for knowledge that should survive across
 - [`003-microliths-small-tools/`](../../StoryLens-Projects/003-microliths-small-tools/) — completed English Short
 - [`004-archaeology-unfair-archive/`](../../StoryLens-Projects/004-archaeology-unfair-archive/) — completed English Short
 - [`005-five-kilometre-stone/`](../../StoryLens-Projects/005-five-kilometre-stone/) — completed English Short
+- [`006-two-feet-before-big-brain/`](../../StoryLens-Projects/006-two-feet-before-big-brain/) — completed English Short
 
 ## Wiki rule
 
