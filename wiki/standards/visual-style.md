@@ -53,6 +53,8 @@ These elements can change to serve each story:
 
 The current StoryLens production target is a **minimalist 2D historical explainer with occasional cinematic story shots**. It combines the clarity, pace, and production economy of hand-drawn web animation with StoryLens's stronger research, atmosphere, and respect for historical people.
 
+Project 007 also tests a **dark illuminated-manuscript treatment**: near-black vellum, etched ink, oxblood shadows, tarnished-gold highlights, serif captions and low-key lighting. When used for prehistoric subjects, this is an aesthetic treatment only; it must not introduce medieval clothing, architecture, writing or objects. Keep this variant experimental until creator and audience comparison determines whether its mystery improves retention enough to justify its reduced brightness and slower pace.
+
 The format mix should be approximately:
 
 - 70% simple narration-led explainer shots

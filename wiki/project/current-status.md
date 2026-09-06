@@ -46,7 +46,7 @@ Projects 002–006 have complete English masters, research ledgers, scripts, ali
 
 Project 006 now also has a 32.33-second V2 made from 14 image-generated base frames and zero code-drawn base visuals. It is the first completed demonstration of the strict image-only workflow and is ready for creator review.
 
-Project 007, the 5,700-year-old chewing-gum story, is a 33.63-second image-only Short with 14 generated visual beats. It tests a new `Did you know? → strange object → escalating evidence` opening and is ready for creator review.
+Project 007, the 5,700-year-old chewing-gum story, now has two image-only cuts. The bright editorial V1 is 33.63 seconds. The 38.82-second V2 restyles all 14 images as a dark illuminated manuscript and uses a slower, mysterious narration and sound bed. Both are ready for direct creator comparison.
 
 ## Next milestone
 
