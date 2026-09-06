@@ -11,7 +11,7 @@ Shorts are not chopped trailers and are not a separate creative identity. Each S
 ## Initial experiment
 
 - Produce six standalone Shorts.
-- Target 35–60 seconds initially, even though YouTube currently permits vertical Shorts up to three minutes.
+- Choose duration from the idea rather than forcing every Short toward one minute. The initial working range is 25–60 seconds, including focused 25–35 second Shorts.
 - Treat every Short as its own video project.
 - Publish no faster than the team can maintain the quality standard.
 - Use the same broad audience, historical responsibility, and visual identity across Shorts and long-form videos.
@@ -30,7 +30,7 @@ Shorts are not chopped trailers and are not a separate creative identity. Each S
 - Tell viewers exactly what is strange or consequential.
 - Confirm the promise made by the first frame and title.
 
-### 10–35 seconds — escalate through evidence
+### Middle — escalate through evidence
 
 - Introduce only the facts needed for this one idea.
 - Use a meaningful visual change approximately every 1.5–3 seconds.
@@ -44,7 +44,7 @@ Shorts are not chopped trailers and are not a separate creative identity. Each S
 
 ## Script standard
 
-- Approximately 90–150 words depending on the performance and target duration
+- Approximately 65–95 words for a 25–35 second Short and 100–155 words for a 45–60 second Short, adjusted after an actual narration timing test
 - One central question
 - One surprising turn
 - One clear payoff
@@ -55,11 +55,12 @@ Shorts are not chopped trailers and are not a separate creative identity. Each S
 ## Visual standard
 
 - Vertical 9:16 composition designed natively for mobile
-- Approximately 15–25 meaningful visual beats in 45–60 seconds
+- Approximately 10–16 meaningful image beats in 25–35 seconds or 15–25 beats in 45–60 seconds
 - One focal point per beat
 - Large objects, faces, hands, diagrams, and readable silhouettes
 - Text kept within safe areas and away from interface overlays
-- Limited animation through pose changes, object movement, environmental motion, diagrams, and motivated reframing
+- Every beat begins with an evaluated generated or human-illustrated image; code-drawn visuals are prohibited
+- Limited animation through alternate generated poses, image-layer movement, environmental motion, and motivated reframing
 - No repeated slow zooms over static generated images
 
 ## Sound standard

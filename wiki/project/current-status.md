@@ -12,6 +12,8 @@ Updated: 2026-09-01
 - No full video enters expensive production until a finished 45–60 second prototype passes review.
 - StoryLens is long-form-first; Shorts are the rapid-learning and discovery layer.
 - Each Short is its own video project.
+- Every visual beat must use a generated or human-illustrated base image; code-drawn visual content is prohibited.
+- Shorts may be 25–35 seconds or 45–60 seconds depending on the idea.
 
 ## Current creative direction
 
@@ -40,7 +42,7 @@ The workflow can produce a researched and technically complete video, but the fi
 
 ## Completed production batch
 
-Projects 002–006 have complete English masters, research ledgers, scripts, aligned narration, 21–25 beat edits, visual correction histories, technical QA, and release drafts. See [Shorts Batch 001](../experiments/shorts-batch-001.md).
+Projects 002–006 have complete English masters, research ledgers, scripts, aligned narration, visual correction histories, technical QA, and release drafts. See [Shorts Batch 001](../experiments/shorts-batch-001.md). These masters predate the strict image-only rule and remain learning prototypes; Project 006 uses 20 code-drawn frames and must be remade before publication.
 
 ## Next milestone
 

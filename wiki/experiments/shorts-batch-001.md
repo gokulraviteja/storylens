@@ -80,3 +80,5 @@ Do not declare a winner from raw views alone. Compare engaged viewing, retention
 All five are 1080 × 1920 at 30 fps with 21–25 meaningful beats and no detected black frames or program silence longer than 0.8 seconds. The first four-video encoded-frame review is retained in [four-video-cross-review.png](../four-video-cross-review.png).
 
 This is a production pass, not proof of audience fit. Publication metrics must decide which format deserves iteration.
+
+Projects 002–006 were completed before the 2026-09-06 image-only rule. Their use of deterministic code-drawn visuals is retained as experiment history, not as an approved production method. Project 006 is the first candidate for an image-only remake.

@@ -9,7 +9,7 @@ This workflow turns one approved topic into one self-contained video project and
 Work moves through four locks:
 
 1. **Research lock:** the factual foundation is approved before the script is finalized.
-2. **Prototype lock:** a finished 45–60 second section proves the creative format before full production.
+2. **Prototype lock:** a finished representative section—or the complete cut of a 25–35 second Short—proves the creative format before full production.
 3. **Narration lock:** the script and recorded timing are approved before final visuals are generated.
 4. **Picture lock:** the edit is approved before dubbing and final exports.
 
@@ -45,7 +45,7 @@ The agent should pause for creator approval at these moments:
 - Research lock: factual foundation and treatment of uncertainty
 - Story design: hook, narrative shape, and ending
 - Script gate: final English narration
-- Prototype gate: finished 45–60 second representative section
+- Prototype gate: finished representative section, or complete 25–35 second Short
 - Animatic gate: pacing and scene plan
 - Narration lock: voice performance and timing
 - Visual gate: house style, character design, and keyframes
@@ -155,7 +155,7 @@ The hook earns attention within the first two sentences, the script sounds natur
 
 ### Tasks
 
-- Produce a representative 45–60 second section before full visual production.
+- Produce a representative 45–60 second section for long-form work, or the complete cut when the Short itself is only 25–35 seconds.
 - Use final-quality script, voice, art direction, visual cadence, limited animation, music, effects, and captions.
 - Test it without explaining the intended format beforehand.
 - Record attention drift, unclear lines, artificial-sounding delivery, and weak visual beats.
@@ -239,14 +239,14 @@ Every timeline asset has a recorded evaluation Pass; the full sequence has also 
 
 ### Generated-image correction rule
 
-Reject an image when it creates a wrong role, repeated face, malformed focal anatomy, unsupported tool form, weapon spectacle, generated lettering, or false geographic precision. When a factual mechanism is easier to express as a diagram, use a deterministic graphic and label reconstructions rather than repeatedly prompting an image model for an uncertain scene.
+Reject an image when it creates a wrong role, repeated face, malformed focal anatomy, unsupported tool form, weapon spectacle, generated lettering, or false geographic precision. Regenerate or simplify failed scenes. Diagrams, maps and abstract explanations must also be generated or human-illustrated images and must receive the same evaluator pass; never replace them with code-drawn graphics.
 
 ## 9. Edit, sound, and captions
 
 ### Tasks
 
 - Edit to the locked narration.
-- Add camera movement, parallax, maps, diagrams, restrained text, and transitions only where they improve comprehension.
+- Add camera movement, parallax, restrained editorial text, and transitions only where they improve comprehension. Maps and diagrams must already exist as approved image assets.
 - Build ambient sound first, then effects and music.
 - Keep narration intelligible on phones and headphones.
 - Create accurate subtitles from the final edit rather than the draft script.
@@ -357,7 +357,7 @@ For **You Wake Up in the Stone Age During the Monsoon**:
 - Duration: 4–5 minutes
 - Narration pace: test approximately 155–175 words per minute with deliberate variation
 - Visual beats: approximately 80–110 for a 4–5 minute video, subject to prototype results
-- Visual strategy: simple illustrated frames, pose and object changes, diagrams, environmental movement, and limited parallax
+- Visual strategy: evaluated illustrated frames for every beat, generated pose and object changes, image-based diagrams, environmental movement, and limited parallax
 - First release: English only
 - Hindi and Telugu: begin after the English format and visual style are approved
 

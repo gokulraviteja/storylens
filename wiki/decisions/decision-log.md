@@ -59,3 +59,20 @@ Status: Locked for the first channel experiment.
 - Require explicit creator approval after each of the ten production stages.
 
 Status: Concept scope locked; research/fact lock awaiting approval.
+
+## 2026-09-06 — Image-only visual production
+
+- Every visual beat must begin with a generated or human-illustrated image.
+- Do not use code to draw scenes, characters, objects, icons, maps, timelines, anatomy, or diagrams.
+- Code remains permitted for assembly, image animation, transitions, colour treatment, captions, evidence labels, sound, and export.
+- A difficult or failed image must be regenerated, simplified, or removed by shortening the edit—not replaced with a code-drawn shortcut.
+
+Status: Locked.
+
+## 2026-09-06 — Topic-led Short duration
+
+- Shorts do not need to be one minute.
+- Use approximately 25–35 seconds for one tight idea and 45–60 seconds when the evidence or payoff genuinely needs it.
+- Validate duration with the generated narration before creating final images.
+
+Status: Locked.

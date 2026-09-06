@@ -9,12 +9,13 @@ Copy this checklist into every Short project.
 - [ ] Evidence available
 - [ ] Strong first-frame concept
 - [ ] Clear payoff
-- [ ] Visually feasible in 15–25 beats
+- [ ] Duration chosen from the idea: typically 25–35 or 45–60 seconds
+- [ ] Visually feasible with a distinct evaluated image for every meaningful beat
 
 ## Script gate
 
 - [ ] Opening works in the first two seconds
-- [ ] Approximately 90–150 words
+- [ ] Word count fits the chosen duration after actual narration timing
 - [ ] Every line performs a useful job
 - [ ] One question and one payoff
 - [ ] Sounds natural when read aloud
@@ -32,15 +33,18 @@ Copy this checklist into every Short project.
 ## Animatic gate
 
 - [ ] Native 9:16 composition
-- [ ] Approximately 15–25 meaningful visual beats
+- [ ] Approximately 10–16 image beats for 25–35 seconds or 15–25 for 45–60 seconds
 - [ ] New visual idea approximately every 1.5–3 seconds
 - [ ] One focal point per beat
+- [ ] Every visual beat has an evaluated generated or human-illustrated base image
+- [ ] No code-drawn scene, icon, map, timeline, anatomy, or diagram
 - [ ] Representative limited animation included
 - [ ] No long static-image holds disguised by zooming
 
 ## Final gate
 
 - [ ] Visual artifacts and historical errors cleared
+- [ ] Image-generation record and per-image evaluator decisions retained
 - [ ] Music and effects support the narrative arc
 - [ ] Captions readable within mobile safe areas
 - [ ] Audio mix tested on phone and headphones

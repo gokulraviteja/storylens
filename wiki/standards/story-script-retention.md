@@ -89,11 +89,11 @@ Frequent change must be meaningful and easy to process:
 - Remainder: approximately every 3–6 seconds
 - Every 15–25 seconds: consider a pattern change such as a close-up, diagram, map, comedic cutaway, evidence card, or audio reset
 
-A visual change can be a new image, pose, crop, object state, diagram step, expression, layer animation, or motivated camera move. Random cuts and constant motion do not count.
+A visual change can be a new approved image, alternate generated pose, crop, object state, image-based diagram step, expression, layer animation, or motivated camera move. Code-drawn visuals do not qualify. Random cuts and constant motion do not count.
 
 ## Prototype gate
 
-No full video proceeds to final visual production until a finished 45–60 second prototype contains final-quality:
+No full video proceeds to final visual production until a representative 45–60 second prototype—or the complete cut of a 25–35 second Short—contains final-quality:
 
 - Script
 - Voice performance

@@ -2,7 +2,21 @@
 
 ## Status
 
-**Revised house direction locked for the next audience experiment on 2026-08-23.** The earlier clean-cel/flat-explainer hybrid produced good atmosphere but felt too much like a sequence of AI-generated stills. The next sample will test a minimalist, narration-led 2D explainer format before the permanent channel style is locked.
+**Image-only base-frame rule locked on 2026-09-06.** The permanent illustration treatment remains experimental, but code-drawn scenes and diagrams are no longer permitted.
+
+## Mandatory image-only rule
+
+Every visual beat must use a generated or human-illustrated image as its base. Python, SVG, canvas, presentation software, or other code must not draw the scene, character, object, icon, map, timeline, anatomical graphic, or diagram.
+
+Code may be used only to assemble and finish approved images: crop, scale, layer, mask, animate, transition, colour-correct, synchronize, mix audio, and add captions or short evidence/reconstruction labels. Editorial text overlays are not a substitute for the required image.
+
+For every video project:
+
+- generate a distinct image for each materially different visual beat;
+- evaluate every image before it enters the timeline;
+- regenerate failed anatomy, continuity, historical detail, composition, or artificial-looking results;
+- never replace a difficult image with a code-drawn visual shortcut;
+- reduce the number of beats or shorten the video if the available image set cannot sustain the quality standard.
 
 ## Purpose
 
@@ -72,10 +86,10 @@ This ratio is a starting hypothesis. Audience retention and production effort fr
 - One narration idea per visual composition
 - A meaningful visual change approximately every 3–5 seconds; faster when the narration introduces a quick sequence of ideas
 - Limited character animation focused on gestures, expressions, hands, posture, and interaction with objects
-- Direct visual metaphors and simple diagrams for abstract ideas
+- Direct visual metaphors and simple diagrams for abstract ideas, created as evaluated images rather than code drawings
 - Layered parallax and restrained camera movement only when they add atmosphere or spatial understanding
 - Environmental motion such as rain, smoke, fire, water, dust, mist, and leaves
-- Clean maps and diagrams using the same outline weight, simplified shapes, and palette system
+- Clean image-generated or human-illustrated maps and diagrams using the same outline weight, simplified shapes, and palette system
 - Prefer object, character, fire, smoke, rain, or diagram animation over camera zooms on static images
 - Stillness may be used deliberately for emphasis, but a shot should not remain unchanged while the narration introduces several new ideas
 
@@ -96,6 +110,7 @@ The reference format's success is treated as evidence for this clarity and pacin
 - Holding one detailed generated image under multiple narration ideas
 - Using slow zooms and pans as the main source of motion
 - Copying the recognizable style of a named artist, show, film, or studio
+- Code-generated scenes, icons, maps, timelines, anatomy, or diagrams
 
 The style should feel intentionally designed and repeatable, not like a sequence of unrelated generated illustrations.
 
