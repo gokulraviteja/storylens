@@ -1,6 +1,6 @@
 # StoryLens Ideas Draft
 
-Updated: 2026-09-01
+Updated: 2026-09-06
 
 ## Purpose
 
@@ -17,6 +17,16 @@ This is the channel-level idea backlog. Concepts remain here while they are bein
 - **Rejected:** deliberately removed from consideration, with a reason
 
 ## Current ranking
+
+### Active format experiment — Strange Evidence
+
+**Status:** Project 007 complete; creator review pending.
+
+**Selected concept:** Scientists recovered a complete ancient human genome, oral bacteria and possible recent-food traces from a 5,700-year-old piece of chewed birch pitch.
+
+**Format hypothesis:** A familiar but strange object can support a high-retention Short when every few seconds extracts a more surprising piece of evidence from it.
+
+**Active project:** `/Users/gokul/Documents/StoryLens-Projects/007-ancient-chewing-gum/`
 
 ### 1. How Generational Wealth Began
 

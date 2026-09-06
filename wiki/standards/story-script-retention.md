@@ -22,6 +22,14 @@ Important lines should usually perform two jobs. Delete or combine lines that on
 
 ## Opening structure
 
+For strange-evidence Shorts, test this opening pattern:
+
+```text
+Did you know...? → name the strange object → reveal the impossible-sounding evidence
+```
+
+Complete all three steps within roughly six seconds and use a different visual beat for each. “Did you know?” is not the hook by itself; the specific fact after it must be surprising without exaggeration.
+
 The first 30 seconds should normally:
 
 1. Place the viewer inside a concrete moment.
